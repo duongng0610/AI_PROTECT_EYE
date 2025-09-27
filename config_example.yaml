@@ -1,0 +1,33 @@
+camera:
+  index: 0
+  width: 640
+  height: 480
+  fps: 30
+metrics:
+  ear_threshold: 0.22
+  consec_frames: 4
+  perclos_window_seconds: 60
+eye_detection:
+  min_distance_cm: 40
+  no_face_timeout: 5
+  ear_threshold: 0.2317
+work_timer:
+  max_minutes: 45
+  break_minutes: 5
+alert:
+  sound: true
+  popup: true
+  perclos_warn_threshold: 0.25
+  blink_rate_warn_bpm: 6.0
+user:
+  user_hash: anonymous
+  opt_in_upload: false
+server:
+  enabled: true
+  url: http://127.0.0.1:5000/upload_metrics
+  use_api_key: true
+  api_key_env_var: SERVER_API_KEY
+logging:
+  save_landmarks: false
+  level: INFO
+consec_frames: 3

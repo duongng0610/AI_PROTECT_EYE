@@ -1,0 +1,2 @@
+received_at_utc,user_hash,session_started,session_ended,duration_seconds,total_blinks,avg_ear,avg_perclos,device_json,raw_payload
+2025-09-27T10:42:28.548523,test_user_001,2025-09-27T16:20:00,2025-09-27T16:30:00,600,120,0.231,0.12,"{""os"": ""Windows"", ""python"": ""3.10""}","{""user_hash"": ""test_user_001"", ""device"": {""os"": ""Windows"", ""python"": ""3.10""}, ""summary"": {""session_started"": ""2025-09-27T16:20:00"", ""session_ended"": ""2025-09-27T16:30:00"", ""duration_seconds"": 600, ""total_blinks"": 120, ""avg_ear"": 0.231, ""avg_perclos"": 0.12}}"

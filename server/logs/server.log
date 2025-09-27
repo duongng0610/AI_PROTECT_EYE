@@ -1,0 +1,8 @@
+2025-09-27 18:49:04,537 INFO blink_server: Starting blink metrics server (PID=11980)
+2025-09-27 18:49:04,539 INFO blink_server: Launching Flask app on 0.0.0.0:5000 (debug=False)
+2025-09-27 18:51:44,231 INFO blink_server: Starting blink metrics server (PID=18708)
+2025-09-27 18:51:44,232 INFO blink_server: Launching Flask app on 0.0.0.0:5000 (debug=False)
+2025-09-27 19:03:09,111 INFO blink_server: Starting blink metrics server (PID=14512)
+2025-09-27 19:03:09,113 INFO blink_server: Launching Flask app on 0.0.0.0:5000 (debug=False)
+2025-09-27 20:01:58,472 INFO blink_server: Starting blink metrics server (PID=13712)
+2025-09-27 20:01:58,474 INFO blink_server: Launching Flask app on 0.0.0.0:5000 (debug=False)

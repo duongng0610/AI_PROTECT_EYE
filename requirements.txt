@@ -1,0 +1,10 @@
+mediapipe>=0.10.0
+opencv-python
+numpy
+pandas
+pyyaml
+flask
+requests
+python-dotenv
+matplotlib
+streamlit

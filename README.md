@@ -90,12 +90,11 @@ pip install -r requirements.txt
 
 ### **Bước 2: Thiết lập cấu hình (Tùy chọn)**
 
-```bash
-# Kiểm tra file config.yaml
-# Điều chỉnh camera index, thresholds nếu cần
-notepad config.yaml  # Windows
-nano config.yaml     # Linux/macOS
-```
+ Sau khi tải về, **copy file `config_example.yaml` thành `config.yaml`** trong thư mục dự án.
+- Chỉnh sửa các thông số trong `config.yaml` nếu cần thiết.
+- Khi chạy các script, cấu hình cá nhân sẽ được tự động tạo trong thư mục `configs/`.
+## Lưu ý:
+Các file cấu hình cá nhân sẽ được tạo tự động khi sử dụng chương trình.
 
 ### **Bước 3: Chạy Calibration (Khuyến nghị - Bước quan trọng!)**
 
